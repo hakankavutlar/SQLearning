@@ -1,0 +1,9 @@
+# ÖDEV 8
+
+## SORU 1
+CREATE TABLE employee(
+	 id INTEGER,
+	 name VARCHAR(50),
+	 BD DATE,
+	 EMAIL VARCHAR(100)
+	)
